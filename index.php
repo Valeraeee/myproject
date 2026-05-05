@@ -1,13 +1,7 @@
 <?php
-
 // Sample PHP file
-
-$name = "Ms Valerie Soh -CNAS";
-
-$message = "Hello, $name! Welcome to  CNAS 1.";
-
+$name = "Ms  Valerie Soh - CNAS";
+$message = "Hello, $name! CNAS has been changed.";
 echo $message;
-
 ?>
-
 
